@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+.vertical {
+  height: 30px;
+  border-right: 1px solid;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+form {
+  border: 1px solid dodgerblue;
+  width: 521px;
+  padding-left: 32px;
+  border-radius: 3% ;
+}
+
+input,
+select ,textarea {
+  width: 95%;
+  padding-right: 32px;
+  margin-bottom: 16px;
+}
+
+label {
+  width: 100%;
+}
+
+.inline{
+  padding: 0px;
+  width: 50px;
+  display: inline-block;
+}

@@ -1,0 +1,16 @@
+.vertical {
+  height: 30px;
+  border-right: 1px solid;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+table , th ,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding-right: 16px;
+  width: 600px;
+}
+.head{
+  background-color: rgb(119, 214, 243);
+}
